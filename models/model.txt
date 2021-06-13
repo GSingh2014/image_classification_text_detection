@@ -1,0 +1,3 @@
+This is the esrgan-tf2_1 model which can be downloaded from
+
+https://www.tensorflow.org/hub/tutorials/image_enhancing
